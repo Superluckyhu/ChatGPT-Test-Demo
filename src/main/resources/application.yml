@@ -1,0 +1,14 @@
+server:
+  port: 9999
+  tomcat:
+    connection-timeout: 6000000
+
+
+
+
+chat:
+  api_key: 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
+  model_engine: gpt-3.5-turbo
+  max_tokens: 1024
+  temperature: 1.2
+
